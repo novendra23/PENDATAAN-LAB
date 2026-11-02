@@ -1,0 +1,6 @@
+{
+  "name": "LabTrack — Sistem Pendataan & Pelaporan Lab Komputer",
+  "description": "Aplikasi interaktif pendataan status perangkat 4 laboratorium komputer (kapasitas 6×6 per lab) dan pelaporan kendala teknis untuk siswa dan teknisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
